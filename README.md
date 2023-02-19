@@ -25,7 +25,6 @@ i      Open location and display item totals.
 a      Version and license information.
 h      Help documentation.
 
-**Notes:**
 - Each of the features above when exporting or viewing allow the prompt to still be active.
 - The V-View feature allows to review contents of the folder in a grid-view sortable table.
 - The I-Information feature displays a clickable explorer link along with folder and file totals.
