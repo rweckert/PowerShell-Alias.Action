@@ -1,6 +1,6 @@
 # Alias.Action Scripts:
 
-##General:##
+**General:**
 Alias.Action scripts help the user type less to navigate the system faster with more control. Each Alias.Action command has a prefix that when used in combination with the tab key allows quick navigation and easy access to information. Alias.Action scripts are organized into groups and each group has a specific prefix in calling the command. Example using the cd.desktop navigation command:
 
 cd.desktop
@@ -10,6 +10,19 @@ cd.desktop
 Example using the "set." prefix to load the Microsoft Settings "Lock Screen" options window:
 
 set.lockscreen
+
+**Prefix Groupsing:**
+Prefix       Description
+--------------------------------------------
+cd.          Navigation. Change directory.
+ss.          System Settings
+st.          System Tools
+sm.          System Management
+su.          System Utility
+ns.          Network Security
+
+**Installation:**
+Save Alias.Action scripts into a directory supported by your $PATH enviroinment variable. Alias.Action scripts rely only on the Microsoft Windows archetecture to produce output.
 
 ___
 
