@@ -14,12 +14,12 @@ set.lockscreen
 Prefix Grouping:
 Prefix       Description
 --------------------------------------------
-cd.          Navigation. Change directory.
-ss.          System Settings
-st.          System Tools
-sm.          System Management
-su.          System Utility
-ns.          Network Security
+- cd.          Navigation. Change directory.
+- ss.          System Settings
+- st.          System Tools
+- sm.          System Management
+- su.          System Utility
+- ns.          Network Security
 
 Installation:
 Save Alias.Action scripts into a directory supported by your $PATH enviroinment variable. Alias.Action scripts rely only on the Microsoft Windows archetecture to produce output.
