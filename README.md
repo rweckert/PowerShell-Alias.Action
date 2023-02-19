@@ -26,7 +26,7 @@ Save Alias.Action scripts into a directory supported by your $PATH enviroinment 
 
 ___
 
-### Alias.Navigation Scripts: ###
+Alias.Navigation Scripts:
 
 All of Alias.Action navigation scripts start with "cd.". Each of the navigation scripts have the following useful options:
 
