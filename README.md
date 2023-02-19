@@ -13,7 +13,7 @@ set.lockscreen
 
 Prefix Grouping:
 Prefix       Description
---------------------------------------------
+
 - cd.          Navigation. Change directory.
 - ss.          System Settings
 - st.          System Tools
