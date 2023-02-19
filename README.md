@@ -20,6 +20,7 @@ set.lockscreen
 |   st.  | System Tools  |
 |   sm.  | System Management  |
 |   su.  | System Utility  |
+|   pm.  | Print Management  |
 |   ns.  | Network Security |
 
 ### Installation:
@@ -30,13 +31,14 @@ Save Alias.Action scripts into a directory supported by your $PATH enviroinment 
 
 All of Alias.Action navigation scripts start with "cd.". Each of the navigation scripts have the following useful options:
 
-Default option changes to directory.
-e      Open location with Windows Explorer.
-l      Open location with notepad showing list of all items.
-v      Open location with grid-view listing of all items.
-i      Open location and display item totals.
-a      Version and license information.
-h      Help documentation.
+| Argument | Description |
+| ------------- | ------------- |
+|   e      |Open location with Windows Explorer.|
+|   l      |Open location with notepad showing list of all items.|
+|   v      |Open location with grid-view listing of all items.|
+|   i      |Open location and display item totals.|
+|   a      |Version and license information.|
+|   h      |Help documentation.|
 
 - Each of the features above when exporting or viewing allow the prompt to still be active.
 - The V-View feature allows to review contents of the folder in a grid-view sortable table.
