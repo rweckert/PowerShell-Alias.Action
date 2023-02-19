@@ -5,8 +5,7 @@ Alias.Action scripts help the user type less to navigate the system faster with 
 
 cd.desktop
 
-**Note:**
-- After typing in "cd.d" you can press the tab key to have the rest of the alias.action command appear.
+**Note:** After typing in "cd.d" you can press the tab key to have the rest of the alias.action command appear.
 
 Example using the "set." prefix to load the Microsoft Settings "Lock Screen" options window:
 
