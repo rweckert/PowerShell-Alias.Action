@@ -6,9 +6,9 @@ Alias.Action scripts help the user type less to navigate the system faster with 
 
 cd.desktop
 
-**Note:** After typing in "cd.d" you can press the tab key to have the rest of the alias.action command appear.
+**Tip:** After typing in " cd.d " press the tab key until the rest of the command appears.
 
-Example using the "set." prefix to load the Microsoft Settings "Lock Screen" options window:
+Example using the " set. " prefix to load the Microsoft Settings "Lock Screen" options window:
 
 set.lockscreen
 
@@ -28,7 +28,7 @@ set.lockscreen
 Save Alias.Action scripts into a directory supported by your $PATH enviroinment variable. Alias.Action scripts rely only on the Microsoft Windows archetecture to produce output.
 
 
-### Alias.Navigation Scripts:
+## Alias.Navigation Scripts:
 
 All of Alias.Action navigation scripts start with "cd.". Each of the navigation scripts have the following useful options:
 
