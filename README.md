@@ -1,7 +1,8 @@
 # Alias.Action Scripts:
 
-**General:**
 Alias.Action scripts help the user type less to navigate the system faster with more control. Each Alias.Action command has a prefix that when used in combination with the tab key allows quick navigation and easy access to information. Alias.Action scripts are organized into groups and each group has a specific prefix in calling the command. Example using the cd.desktop navigation command:
+
+### Examples:
 
 cd.desktop
 
