@@ -21,7 +21,7 @@ ss.lockscreen
 
 | Alias Prefix  | Description |
 | ------------- | ------------- |
-|   cd.  | Navigation. Change directory.  |
+|   cd.  | Change directory.  |
 |   ss.  | System Settings  |
 |   st.  | System Tools  |
 |   sm.  | System Management  |
@@ -48,21 +48,21 @@ All of Alias.Action navigation scripts start with "cd.". Each of the navigation 
 
 ## Alias.Action System Settings:
 
-All of Alias.Action System Settings scripts start with " ss. ". There are no arguments used when opening pages from Microsoft Settings.
+All of Alias.Action System Settings scripts start with " **ss.** ". There are no arguments used when opening pages from Microsoft Settings.
 
 ## Alias.Action System Tools:
 
-All of Alias.Action System Settings scripts start with " st. ".
+All of Alias.Action System Settings scripts start with " **st.** ".
 
 ## Alias.Action System Management:
 
-All of Alias.Action System Management scripts start with " sm. ".
+All of Alias.Action System Management scripts start with " **sm.** ".
 
 ## Alias.Action Print Management:
 
-All of Alias.Action System Management scripts start with " pm. ".
+All of Alias.Action System Management scripts start with " **pm.** ".
 
 ## Alias.Action Network Security:
 
-All of Alias.Action System Management scripts start with " ns. ".
+All of Alias.Action System Management scripts start with " **ns.** ".
 
