@@ -11,10 +11,14 @@ Example using the "set." prefix to load the Microsoft Settings "Lock Screen" opt
 
 set.lockscreen
 
-| First Header  | Second Header |
+| Prefix  | Description |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+|   cd.  | Content Cell  |
+|   ss.  | Content Cell  |
+|   st.  | Content Cell  |
+|   sm.  | Content Cell  |
+|   su.  | Content Cell  |
+|   ns.  | Content Cell  |
 
 Prefix Grouping:
 Prefix       Description
