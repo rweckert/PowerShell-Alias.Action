@@ -1,12 +1,14 @@
 # Alias.Action Scripts:
 
-Alias.Action scripts help the user type less to navigate the system faster with more control. Each Alias.Action command has a prefix that when used in combination with the tab key allows quick navigation and easy access to information. Alias.Action scripts are organized into groups and each group has a specific prefix in calling the command. Example using the cd.desktop navigation command:
+Alias.Action scripts help the user type less to navigate the system faster with more control. Each Alias.Action command has a prefix that when used in combination with the tab key allows quick navigation and easy access to information. Alias.Action scripts are organized into groups and each group has a specific prefix in calling the command.
 
 ### Examples:
 
+Example using the cd.desktop navigation command. Type in the follwing command and press enter:
+
 cd.desktop
 
-**Tip:** After typing in " cd.d " press the tab key until the rest of the command appears.
+**Tip:** After typing in " cd.d " press the tab key until the rest of the command appears and add a argument if needed, press enter.
 
 Example using the " set. " prefix to load the Microsoft Settings "Lock Screen" options window:
 
