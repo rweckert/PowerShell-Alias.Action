@@ -27,7 +27,7 @@ _cd.desktop_
 
 ## Alias.Action Navigation:
 
-All of Alias.Action navigation scripts start with "cd.". Each of the navigation scripts have the following useful options:
+All of Alias.Action navigation scripts start with " **cd.** ". Each of the navigation scripts have the following useful options:
 
 | Argument | Description |
 | ------------- | ------------- |
