@@ -2,6 +2,8 @@
 
 Alias.Action scripts help the user type less to navigate the system faster with more control. Each Alias.Action command has a prefix that when used in combination with the tab key allows quick navigation and easy access to information. Alias.Action scripts are organized into groups and each group has a specific prefix in calling the command.
 
+**Update 02/21/2023:**  Project changed to public access. More Alias.Action scripts are being added to finish up the set. Final testing and review. 62 Alias.Action scripts listed at this time.
+
 ### Installation:
 Save Alias.Action scripts into a directory supported by your $PATH enviroinment variable. Alias.Action scripts rely only on the Microsoft Windows archetecture to produce output and 3rd party applications or programs are not needed.
 
