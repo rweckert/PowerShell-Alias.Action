@@ -22,8 +22,6 @@ _cd.desktop_
 |   st.  | System Tools |
 |   sm.  | System Management |
 |   su.  | System Utility |
-|   pm.  | Print Management |
-|   ns.  | Network Security |
 
 ## Alias.Action Navigation:
 
@@ -67,12 +65,3 @@ All of Alias.Action System Settings scripts start with " **st.** ".
 ## Alias.Action System Management:
 
 All of Alias.Action System Management scripts start with " **sm.** ".
-
-## Alias.Action Print Management:
-
-All of Alias.Action System Management scripts start with " **pm.** ".
-
-## Alias.Action Network Security:
-
-All of Alias.Action System Management scripts start with " **ns.** ".
-
